@@ -25,6 +25,8 @@
   * [Download And Install](#download-and-install)
   * [Who Uses This Software?](#who-uses-this-software)
   * [Basics Of JIRA Tool](#basics-of-jira-tool)
+* [Manual Testing](#manual-testing)
+* [Resource For Every Tester](#resource-for-every-tester)
 
 
 # Introduction To Agile Development
@@ -300,6 +302,21 @@ Say the issue first gets created, goes to being worked on and when complete gets
 
 ![Atlassian-JIRA-workflow](https://user-images.githubusercontent.com/63476270/178587031-34695b89-32cf-4864-ae4d-cd573907dbb1.jpg)
 
+# Manual Testing 
+I am attaching a file that contains everything you need to become a **Good Manual Tester**
+
+[Click Me !](https://a7madsam.github.io/Software-Testing-with-JiraAndAgile/)
+
+# Resource For Every Tester
+For every QA Engineer , below are lots of Resources to learn from.
+## Resources to learn
+* [Udemy](https://www.udemy.com/) - [Rahul Shetty](https://rahulshettyacademy.com/) has some good courses to take you from a beginner level to intermediate level tester both in Manual and Automation testing.
+* [Guru99.com](https://www.guru99.com/) has some of the best resources to learn from and also live projects.
+* [Edureka](https://www.edureka.co/) on YouTube has some very good courses [Youtube Channel](https://www.youtube.com/c/edurekaIN)
+* [Pavan Kumar Bhimavarapu](https://www.pavanonlinetrainings.com/) on YouTube [Youtube Channel](https://www.youtube.com/c/pavanoltraining)
+* [Naveen Khunteta](https://naveenautomationlabs.com/) on YouTube [Youtube Channel](https://www.youtube.com/c/NaveenAutomationLabs)
+* [Team SoftwaretestingbyMKT](https://www.linkedin.com/in/team-softwaretestingbymkt-202992192/) on YouTube [Youtube Channel](https://www.youtube.com/c/SoftwaretestingbyMKT)
+* [ISTQB® - International Software Testing Qualifications Board](https://www.istqb.org/) and [ASTQB - ISTQB in the U.S. - Official Page sites](https://astqb.org/) have resources, exams and certifications. Some of the best certification bodies in software testing.
 
 
 
