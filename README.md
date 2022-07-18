@@ -26,7 +26,7 @@
   * [Who Uses This Software?](#who-uses-this-software)
   * [Basics Of JIRA Tool](#basics-of-jira-tool)
 * [Manual Testing](#manual-testing)
-* [Resource For Every Tester](#resource-for-every-tester)
+* [Resources For Every Tester](#resource-for-every-tester)
 
 
 # Introduction To Agile Development
@@ -307,7 +307,7 @@ I am attaching a file that contains everything you need to become a **Good Manua
 
 [Click Me !](https://a7madsam.github.io/Software-Testing-with-JiraAndAgile/)
 
-# Resource For Every Tester
+# Resources For Every Tester
 For every QA Engineer , below are lots of Resources to learn from.
 ## Resources to learn
 * [Udemy](https://www.udemy.com/) - [Rahul Shetty](https://rahulshettyacademy.com/) has some good courses to take you from a beginner level to intermediate level tester both in Manual and Automation testing.
